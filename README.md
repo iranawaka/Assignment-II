@@ -1,2 +1,1 @@
-# Assignment-II
-IE5042 – Software Security Assignment-II
+# Assignment-II IE5042 – Software Security
